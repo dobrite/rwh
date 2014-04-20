@@ -1,4 +1,4 @@
--- file: ch01/WC.hs
+-- file: ch01/WC-chars.hs
 -- lines beginning with "--" are comments.
 
 main = interact charCount
